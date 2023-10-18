@@ -1,0 +1,52 @@
+/* .container {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.mainCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardd {
+  margin: 50px;
+  width: 500px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.imgg {
+  width: 500px;
+  height: 300px;
+}
+
+.headingPrice {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+
+.bg-info {
+  border-radius: 5px;
+}
+
+.info {
+  margin: 20px;
+}
+
+.h1 {
+  text-align: center;
+  font-weight: 700;
+}
+
+.underline {
+  width: 6rem;
+  height: 0.25rem;
+  background-color: rgb(137, 193, 233);
+  margin-left: auto;
+  margin-right: auto;
+}
